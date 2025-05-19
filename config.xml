@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <browseType>Chrome</browseType>
+    <browseType>Edge</browseType>
+    <url>https://www.next.co.il/en</url>
+
+    <password>Nb12345678gmailcom</password>
+    <email>nb12345678@gmail.com</email>
+
+    <firstName>sara</firstName>
+    <lastName>levi</lastName>
+    <phone>0534187511</phone>
+    <address>Omrei emet 5</address>
+    <city>Beit shemesh</city>
+    <miko>55179</miko>
+</config>
